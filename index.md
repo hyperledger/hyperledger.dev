@@ -9,9 +9,6 @@ has_toc: false
 
 # Hyperledger Foundation
 
- * hyperledger.org/[community](https://hyperledger.org/community)
- * hyperledger.org/[resources](https://hyperledger.org/resources)
- * hyperledger.org/[training](https://hyperledger.org/training)
  * [chat](https://chat.hyperledger.org/).hyperledger.org
  * [wiki](https://wiki.hyperledger.org).hyperledger.org
  * [github](https://github.com/hyperledger).com/hyperledger
