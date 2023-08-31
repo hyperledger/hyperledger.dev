@@ -2,6 +2,8 @@
 title: "Hyperledger Get Involved"
 show_downloads: "false"
 has_children: false
+ga_tracking: GTM-T6J7RQ
+ga_tracking_anonymize_ip: true
 has_toc: false
 remote_theme: pmarsceill/just-the-docs
 logo: "hyperledger-logo.png"
